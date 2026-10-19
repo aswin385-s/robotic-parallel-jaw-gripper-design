@@ -1,6 +1,6 @@
 # Robotic Parallel-Jaw Industrial Gripper Design
 
-![CAD View](docs/assembly.jpeg)
+![CAD View](images/assembly.jpeg)
 
 A parametric CAD design and static structural validation of a two-finger parallel-jaw industrial gripper utilizing a rack-and-pinion actuation mechanism. Designed in **Autodesk Fusion 360** and validated for an **8 kg payload capacity**.
 
